@@ -1,6 +1,6 @@
 # web-port
 
-all games are hosted on https://gn-math.github.io
+all games are hosted on https://gn-math.dev or https://gn-math.github.io
 
 ## Full Game List + Credits
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [me](https://github.com/genizy)
@@ -15,7 +15,6 @@ all games are hosted on https://gn-math.github.io
 - [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [me](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [me](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
-- [Deltarune](https://github.com/genizy/web-port/tree/main/deltarune) - Ported by [me](https://github.com/genizy)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [me](https://github.com/genizy)
 - [Fears to Fathom: Home Alone](https://github.com/genizy/web-port/tree/main/fears-to-fathom) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
@@ -34,8 +33,7 @@ all games are hosted on https://gn-math.github.io
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [me](https://github.com/genizy)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [me](https://github.com/genizy)
 - [Ultrakill](https://github.com/genizy/web-port/tree/main/ultrakill) - Ported by [98Corbins](https://98cornbin.netlify.app)
-- [Undertale](https://github.com/genizy/web-port/tree/main/undertale) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
-- [Undertale Yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
+- [Undertale Yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) - Ported by [me](https://github.com/genizy)
 - [Web Fishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [me](https://github.com/genizy)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [me](https://github.com/genizy)
 
